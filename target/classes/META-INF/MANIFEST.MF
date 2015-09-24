@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: Spring-Heroku
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.constallation
+Build-Jdk: 1.6.0_24
+Built-By: sthutika
+Created-By: Maven Integration for Eclipse
+
